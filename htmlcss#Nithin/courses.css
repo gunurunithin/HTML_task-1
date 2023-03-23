@@ -1,0 +1,32 @@
+.course{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    list-style: none;
+}
+
+.cor{
+    font-size: 46px;
+    color: white;
+    font-style: italic;
+}
+
+.logo{
+    width: 78px;
+    height: 53px;
+    margin-top: -17px;
+    margin-left: 13px;
+}
+
+body{
+    background-image: url(courseimg.jpg);
+    background-size: cover;
+    background-repeat: none;
+    background-attachment: fixed;
+}
+
+ul li:hover{
+    transform: scale(1.3);
+    opacity: 0.95;
+    color: rgb(223, 223, 42);
+}
